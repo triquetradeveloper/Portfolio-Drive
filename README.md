@@ -24,7 +24,7 @@
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Portfolio Drive Demo](https://your-demo-link.com)
+Check out the live demo: [Portfolio Drive Demo](https://triquetradeveloper.github.io/Portfolio-Drive/)
 
 ## 🛠️ Technologies Used
 
