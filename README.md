@@ -38,7 +38,7 @@ Check out the live demo: [Portfolio Drive Demo](https://your-demo-link.com)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio-drive.git
+git clone https://github.com/triquetradeveloper/Portfolio-Drive.git
 ```
 
 2. Navigate to the project directory:
